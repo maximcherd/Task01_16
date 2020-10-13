@@ -1,0 +1,2 @@
+0, 2, COUPLE
+0, 1, FRIENDSHIP

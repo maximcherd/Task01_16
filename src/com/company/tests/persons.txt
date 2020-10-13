@@ -1,0 +1,3 @@
+Ivanov ivan, male
+Uliy Cesar, male
+Tereshkova Valentina, female
